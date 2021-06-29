@@ -1,0 +1,112 @@
+#AIS_Image {
+    width: 500px;
+    height: 400px;
+    margin-top: 20px;
+
+}
+
+#images {
+    width: 700px;
+    height: 450px;
+    border: 0px solid black;
+}
+
+#images2 {
+    width: 400px;
+    height: 200px;
+}
+
+#images3 {
+    width: 200px;
+    height: 200px;
+    margin-right: 200px;
+}
+
+#marqueeStyle {
+    margin: 5px;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    color: red;
+    margin-top: 100px;
+}
+
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+#increase_font {
+    font-size: 15px;
+}
+
+#bandslam_text {
+    line-height: 25px;
+
+}
+
+#ted_image {
+    height: 300px;
+    margin-top: 38px;
+}
+
+#bandslam_image {
+    height: 200px;
+    margin-top: 15px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.heading1 {
+    margin-top: 30px;
+}
+
+.campus2 {
+    margin-left: 10px;
+}
+
+.head2 {
+    padding-top: 20px;
+}
+
+.picture1 {
+    height: 280px;
+    width: 250px;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.navbar-header.custom_navbar {
+    background: rgba(255, 255, 255, 0.3);
+}
